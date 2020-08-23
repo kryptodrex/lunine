@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="173px" height="173px" viewBox="0 0 173 173" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ubacicon2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ubac" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ubacicon2">
+            <g id="Group">
+                <g id="axes" fill="#303030">
+                    <path d="M76.0493264,75.9846723 L237.992021,75.9846723 C243.647977,75.9846723 248.233035,80.5697308 248.233035,86.2256871 L248.233035,86.2256871 C248.233035,91.8816434 243.647977,96.4667019 237.992021,96.4667019 L76.0493264,96.4667019 L76.0493264,75.9846723 Z" id="Rectangle" transform="translate(162.141181, 86.225687) rotate(90.000000) translate(-162.141181, -86.225687) "></path>
+                    <path d="M-1.13686838e-13,152.51797 L161.942694,152.51797 C167.59865,152.51797 172.183709,157.103029 172.183709,162.758985 L172.183709,162.758985 C172.183709,168.414941 167.59865,173 161.942694,173 L-1.13686838e-13,173 L-1.13686838e-13,152.51797 Z" id="Rectangle"></path>
+                </g>
+                <rect id="Rectangle" fill="#3C660B" transform="translate(124.500000, 103.000000) rotate(-90.000000) translate(-124.500000, -103.000000) " x="74" y="87" width="101" height="32"></rect>
+                <rect id="Rectangle" fill="#4D830E" transform="translate(76.500000, 117.000000) rotate(-90.000000) translate(-76.500000, -117.000000) " x="41" y="101" width="71" height="32"></rect>
+                <rect id="Rectangle" fill="#69B214" transform="translate(27.500000, 130.000000) rotate(-90.000000) translate(-27.500000, -130.000000) " x="5" y="114" width="45" height="32"></rect>
+                <path d="M124.42972,28.4255356 L70.6680319,76.5811699 L44.2378816,52.7009632 L11.3320937,82 L0,70.2493091 L44.2378816,29.6941094 L70.6680319,53.5868165 L112.736644,16.7324603 L102.368127,6.36394255 L140.998174,-1.77635684e-14 L134.634232,38.6300477 L124.42972,28.4255356 Z" id="Combined-Shape" fill="#303030"></path>
+            </g>
+        </g>
+    </g>
+</svg>

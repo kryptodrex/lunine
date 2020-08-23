@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>hamburger</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hamburger" fill="#00629C">
+            <path d="M0.280791556,19 C0.0964567058,18.0282477 0,17.0253882 0,16 C0,14.9746118 0.0964567058,13.9717523 0.280791556,13 L31.7192084,13 C31.9035433,13.9717523 32,14.9746118 32,16 C32,17.0253882 31.9035433,18.0282477 31.7192084,19 L0.280791556,19 Z M4.38099862,27 L27.6190014,27 C24.7028229,30.079232 20.5757212,32 16,32 C11.4242788,32 7.29717706,30.079232 4.38099862,27 Z M4.38099862,5 C7.29717706,1.92076798 11.4242788,0 16,0 C20.5757212,0 24.7028229,1.92076798 27.6190014,5 L4.38099862,5 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

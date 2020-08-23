@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="363px" height="138px" viewBox="0 0 363 138" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>miso-just-words</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFC03C" offset="0%"></stop>
+            <stop stop-color="#AE8126" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#0F60AB" offset="0%"></stop>
+            <stop stop-color="#0A3B6D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="miso" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="miso-just-words">
+            <g id="Group-5">
+                <g id="Group-4">
+                    <path d="M254.494565,0 L363,0 L363,137.170507 L254.494565,137.170507 L254.494565,0 Z M333.407609,107.350831 L333.407609,29.2774995 L284.086957,29.2774995 L284.086957,107.350831 L333.407609,107.350831 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                    <polygon id="Combined-Shape" fill="url(#linearGradient-2)" points="224.902174 83.596111 145.98913 83.596111 145.98913 0 254.494565 0 254.494565 29.3936801 175.581522 29.3936801 175.581522 53.8884134 254.494565 53.8884134 254.494565 137.170507 145.98913 137.170507 145.98913 107.776827 224.902174 107.776827"></polygon>
+                    <polygon id="Combined-Shape" fill="url(#linearGradient-1)" points="116.396739 0 145.98913 0 145.98913 137.170507 116.396739 137.170507"></polygon>
+                    <polygon id="Combined-Shape" fill="url(#linearGradient-2)" points="29.0991848 53.8884134 29.0991848 137.170507 0 137.170507 0 0 24.2493207 0 58.1983696 39.1915734 92.1474185 0 116.396739 0 116.396739 137.170507 87.2975543 137.170507 87.2975543 53.8884134 58.1983696 83.2820935"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
